@@ -1,0 +1,9 @@
+{
+  "license": "NOLICENSE",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  }
+}
