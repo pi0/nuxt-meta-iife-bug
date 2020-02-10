@@ -5,7 +5,8 @@ export default {
       {
         id: 'test',
         hid: 'test',
-        innerHTML: '(function(){console.log(new Error("iife script").stack)})()'
+        // innerHTML: 'console.log(new Error("script").stack)',
+        innerHTML: '(function(){console.log(new Error("iife script").stack)})()',
       }
     ],
     __dangerouslyDisableSanitizersByTagID: {
